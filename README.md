@@ -1,2 +1,2 @@
 # Path-Finding
-A path finding algorithm
+A path finding algorithm.
